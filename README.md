@@ -1,4 +1,4 @@
-##Introduction  
+## Introduction  
 A simple Android camera preview example;
 
 ## Reference  
